@@ -1,1 +1,1 @@
-# codingAssignment1
+# codingAssignment
