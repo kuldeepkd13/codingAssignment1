@@ -1,0 +1,26 @@
+{
+  "name": "codingassignment1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuldeepkd13/codingAssignment1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuldeepkd13/codingAssignment1/issues"
+  },
+  "homepage": "https://github.com/kuldeepkd13/codingAssignment1#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.4",
+    "nodemon": "^3.0.1"
+  }
+}
